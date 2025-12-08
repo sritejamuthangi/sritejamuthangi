@@ -57,6 +57,24 @@ Bachelor of Technology in Computer Science and Engineering, May 2024
 
 ## 📂 Projects
 
+**Self-Supervised Speech Recognition Project — Pytorch, Transformers, FastAPI, React**  
+*December 2025*  
+- Evaluated wav2vec2-base, wav2vec2-small, whisper-small, xlsr-english models.  
+- Measured WER, CER, inference speed, and memory use on multiple datasets.  
+- Built FastAPI backend and React/MUI frontend for real-time transcription.  
+- Provided practical guidance for model selection and deployment.  
+- [Project Repo](https://github.com/sriteja-28/StateOfArt_SpeechRecognition.git)  
+
+
+**Fashion MNIST Classification Project — Python, CNN, Flask, React**  
+*November 2025*  
+- Explored dense neural networks, basic and deep CNNs, transfer learning with MobileNetV2.  
+- Tested improvements: data augmentation, batch normalization, hyperparameter tuning.  
+- Achieved 92% accuracy with deep CNN + augmentation.  
+- Deployed Flask API with React UI for real-time predictions.  
+- [Project Repo](https://github.com/sriteja-28/FashionMNISTClassification_ML.git)  
+
+
 **[Onas Website](https://onasglobal.com) — React.js, Material UI**  
 *July 2025*  
 - Developed responsive IT and EdTech consulting website.  
@@ -79,20 +97,6 @@ Bachelor of Technology in Computer Science and Engineering, May 2024
 - Performed feature engineering and model evaluation.  
 - Selected best-performing model for decision-making efficiency.
 - [Project Repo](https://github.com/sriteja-28/Loan-eligibility-prediction-using-ensemble-learning.git)  
-
-**Fashion MNIST Classification Project — Python, CNN, Flask, React**  
-- Explored dense neural networks, basic and deep CNNs, transfer learning with MobileNetV2.  
-- Tested improvements: data augmentation, batch normalization, hyperparameter tuning.  
-- Achieved 92% accuracy with deep CNN + augmentation.  
-- Deployed Flask API with React UI for real-time predictions.  
-- [Project Repo](https://github.com/sriteja-28/FashionMNISTClassification_ML.git)  
-
-**Self-Supervised Speech Recognition Project — Pytorch, Transformers, FastAPI, React**  
-- Evaluated wav2vec2-base, wav2vec2-small, whisper-small, xlsr-english models.  
-- Measured WER, CER, inference speed, and memory use on multiple datasets.  
-- Built FastAPI backend and React/MUI frontend for real-time transcription.  
-- Provided practical guidance for model selection and deployment.  
-- [Project Repo](https://github.com/sriteja-28/StateOfArt_SpeechRecognition.git)  
 
 ---
 
