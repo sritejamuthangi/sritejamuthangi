@@ -1,8 +1,9 @@
 # Hi, I'm Sri Teja Muthangi 👋
 
-📍 Wichita, Kansas  
-📧 [sritejamuthangi336@gmail.com](mailto:sritejamuthangi336@gmail.com) |
-[LinkedIn](https://linkedin.com/in/sritejamuthangi) | [GitHub](https://github.com/sriteja-28) | [Portfolio](https://sriteja.vercel.app)
+Full Stack Developer | MSCS student at Wichita State University | Skilled in Java, Python, Spring Boot, MERN Stack | Exploring opportunities in Machine Learning and AI
+
+📧 [sritejamuthangi336@gmail.com](mailto:sritejamuthangi336@gmail.com)  
+📍 Wichita, Kansas | [LinkedIn](https://linkedin.com/in/sritejamuthangi) | [GitHub](https://github.com/sriteja-28) | [Portfolio](https://sriteja.vercel.app)
 
 ---
 
