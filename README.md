@@ -1,7 +1,7 @@
 # Hi, I'm Sri Teja Muthangi 👋
 
 📍 Wichita, Kansas  
-📧 [sritejamuthangi336@gmail.com](mailto:sritejamuthangi336@gmail.com) 
+📧 [sritejamuthangi336@gmail.com](mailto:sritejamuthangi336@gmail.com) |
 [LinkedIn](https://linkedin.com/in/sritejamuthangi) | [GitHub](https://github.com/sriteja-28) | [Portfolio](https://sriteja.vercel.app)
 
 ---
