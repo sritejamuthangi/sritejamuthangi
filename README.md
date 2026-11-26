@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:sritejamuthangi336@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sritejamuthangi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sriteja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.sritejam.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">📍 Wichita, Kansas</p>
@@ -76,7 +76,7 @@ I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focuse
 - Automated lead management, **cutting manual entry by 70%**.
 
 #### 🌟 Personal Portfolio
-`React` `Vite` `PWA` · *Jan 2025* · 🔗 [Live](https://sriteja.vercel.app)
+`React` `Vite` `PWA` · *Jan 2025* · 🔗 [Live](https://www.sritejam.com/)
 - Offline-first portfolio with modular React components.
 - Rule-based chatbot for visitor interaction.
 
