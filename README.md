@@ -1,130 +1,157 @@
-# Hi, I'm Sri Teja Muthangi 👋
+<h1 align="center">Hi, I'm Sri Teja Muthangi 👋</h1>
 
-Full Stack Developer | MSCS student at Wichita State University | Skilled in Java, Python, Spring Boot, MERN Stack | Exploring opportunities in Machine Learning and AI
+<p align="center">
+  <b>Full Stack Developer</b> · MSCS @ Wichita State University · Exploring Machine Learning & AI
+</p>
 
-📧 [sritejamuthangi336@gmail.com](mailto:sritejamuthangi336@gmail.com)  
-📍 Wichita, Kansas | [LinkedIn](https://linkedin.com/in/sritejamuthangi) | [GitHub](https://github.com/sriteja-28) | [Portfolio](https://sriteja.vercel.app)
+<p align="center">
+  <a href="mailto:sritejamuthangi336@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sritejamuthangi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sriteja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">📍 Wichita, Kansas</p>
+
+---
+
+## 👨‍💻 About Me
+
+I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focused on **machine learning and AI**, from classical ensemble models to CNNs and speech/transformer models. I like taking a project end to end: data → model → API → UI.
+
+- 🎓 Pursuing an MS in Computer Science (May 2027)
+- 🔭 Currently exploring: ML/AI, speech recognition, deep learning
+- 📫 Open to opportunities in Full Stack and ML/AI roles
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) Hibernate · Sequelize |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) IndexedDB |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) Transformers · Deep Learning · Ensemble Models · Model Evaluation · Prompt Engineering |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) REST APIs |
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI / Machine Learning
+
+#### 🎙️ State-of-the-Art Speech Recognition
+`PyTorch` `Transformers` `FastAPI` `React` `MUI` · *Dec 2025*
+- Benchmarked **wav2vec2-base, wav2vec2-small, whisper-small, and xlsr-english**.
+- Measured **WER, CER, inference speed, and memory use** across multiple datasets.
+- Built a **FastAPI backend + React/MUI frontend** for real-time transcription.
+- Gave practical guidance on model selection and deployment.
+- 🔗 [Repo](https://github.com/sritejamuthangi/StateOfArt_SpeechRecognition.git)
+
+#### 👗 Fashion MNIST Classification
+`Python` `CNN` `Flask` `React` · *Nov 2025*
+- Compared dense networks, basic/deep CNNs, and **transfer learning (MobileNetV2)**.
+- Tested data augmentation, batch normalization, and hyperparameter tuning.
+- Reached **92% accuracy** with a deep CNN + augmentation.
+- Deployed a **Flask API with a React UI** for real-time predictions.
+- 🔗 [Repo](https://github.com/sritejamuthangi/FashionMNISTClassification_ML.git)
+
+#### 🏦 Loan Eligibility Prediction
+`Python` `Random Forest` `Gradient Boosting` · *Feb 2024*
+- Built ensemble models reaching **92% accuracy**.
+- Feature engineering, model evaluation, and best-model selection.
+- 🔗 [Repo](https://github.com/sritejamuthangi/Loan-eligibility-prediction-using-ensemble-learning.git)
+
+### 🌐 Full Stack / Web
+
+#### 🧭 Onas Global: IT & EdTech Consulting Website
+`React.js` `Material UI` · *Jul 2025* · 🔗 [Live](https://onasglobal.com)
+- Responsive consulting site with modular, scalable UI components.
+- Deployed the production build for client hosting.
+
+#### 🏢 RR SpaceHub
+`HTML` `PHP` `MySQL` · *Jul 2025* · 🔗 [Live](https://rrspacehub.com)
+- Backend form handling and an admin dashboard.
+- Automated lead management, **cutting manual entry by 70%**.
+
+#### 🌟 Personal Portfolio
+`React` `Vite` `PWA` · *Jan 2025* · 🔗 [Live](https://sriteja.vercel.app)
+- Offline-first portfolio with modular React components.
+- Rule-based chatbot for visitor interaction.
+
+<!--
+=====================================================
+ ADD NEW PROJECTS HERE: copy this template
+=====================================================
+
+#### 🔥 Project Name
+`Tech1` `Tech2` `Tech3` · *Month Year* · 🔗 [Repo](url) · [Live](url)
+- What problem it solves / what you built.
+- Key technical decision or result (numbers if you have them).
+- Anything notable (deployment, users, performance).
+-->
+
+> 📌 **More projects coming soon.** Check my [repositories](https://github.com/sritejamuthangi?tab=repositories) for the latest work.
+
+---
+
+## 💼 Experience
+
+**Java Fullstack Trainee** · Career IT Institute, Hyderabad · *Jun 2024 – May 2025*
+- Built an offline promotional management system (HTML, CSS, JavaScript, IndexedDB).
+- Improved usability and cut manual errors by **30%**; saved **2–3 hours per campaign**.
+
+**Full Stack Web Development Intern** · Innovate, Chennai · *Feb 2024 – Apr 2024*
+- Built a student attendance system with Node.js, MongoDB, and the Twilio API.
+- Automated SMS notifications, improving communication efficiency by **40%**.
+
+**Machine Learning Intern** · Sri Shasha Prayathi Technologies, Mangalore · *May 2023 – Jun 2023*
+- Built a heart disease prediction model with **85.25% accuracy** using ensemble algorithms.
+- Feature engineering, evaluation, and presenting insights to stakeholders.
+
+**Python Programming Trainee** · Internshala Trainings · *May 2022 – Jun 2022*
+- Built mini-projects and CRUD applications with database integration.
 
 ---
 
 ## 🎓 Education
 
-**Wichita State University, Wichita, Kansas**  
-Master of Science in Computer Science, May 2027  
-
-**Bapatla Engineering College, Andhra Pradesh, India**  
-Bachelor of Technology in Computer Science and Engineering, May 2024  
-
----
-
-## 💻 Skills
-
-- **Programming:** Java, Python, SQL, JavaScript  
-- **Web Technologies:** HTML5, CSS3, Bootstrap, TailwindCSS, React.js, Node.js, Express.js, Material UI  
-- **Frameworks:** Spring, Spring Boot, Hibernate, Sequelize  
-- **Databases:** MongoDB, SQL, IndexedDB  
-- **AI/ML:** Scikit-learn, Ensemble Models, Model Evaluation, Prompt Engineering, Deep Learning, Transformers  
-- **Tools:** REST APIs, Postman, Git, GitHub, VS Code, FastAPI, Flask  
-
----
-
-## 🛠️ Experience
-
-**Java Fullstack Trainee — Career IT Institute, Hyderabad, India**  
-*June 2024 – May 2025*  
-- Developed offline promotional management system using HTML, CSS, JavaScript, IndexedDB.  
-- Improved usability and reduced manual errors by 30%.  
-- Streamlined campaign workflows, saving 2–3 hours per campaign.  
-
-**Full Stack Web Development Intern — Innovate, Chennai, India**  
-*February 2024 – April 2024*  
-- Built student attendance management system using Node.js, MongoDB, Twilio API.  
-- Automated SMS notifications, improving communication efficiency by 40%.  
-- Designed responsive interfaces for desktop and mobile.  
-
-**Machine Learning Intern — Sri Shasha Prayathi Technologies, Mangalore, India**  
-*May 2023 – June 2023*  
-- Engineered heart disease prediction model with 85.25% accuracy using ensemble algorithms.  
-- Conducted feature engineering and model evaluation.  
-- Presented insights to stakeholders for data-driven decision making.  
-
-**Python Programming Trainee — Internshala Trainings, India**  
-*May 2022 – June 2022*  
-- Built mini-projects to strengthen programming and problem-solving skills.  
-- Applied database integration techniques to develop CRUD applications.  
-
----
-
-## 📂 Projects
-
-**Self-Supervised Speech Recognition Project — Pytorch, Transformers, FastAPI, React**  
-*December 2025*  
-- Evaluated wav2vec2-base, wav2vec2-small, whisper-small, xlsr-english models.  
-- Measured WER, CER, inference speed, and memory use on multiple datasets.  
-- Built FastAPI backend and React/MUI frontend for real-time transcription.  
-- Provided practical guidance for model selection and deployment.  
-- [Project Repo](https://github.com/sriteja-28/StateOfArt_SpeechRecognition.git)  
-
-
-**Fashion MNIST Classification Project — Python, CNN, Flask, React**  
-*November 2025*  
-- Explored dense neural networks, basic and deep CNNs, transfer learning with MobileNetV2.  
-- Tested improvements: data augmentation, batch normalization, hyperparameter tuning.  
-- Achieved 92% accuracy with deep CNN + augmentation.  
-- Deployed Flask API with React UI for real-time predictions.  
-- [Project Repo](https://github.com/sriteja-28/FashionMNISTClassification_ML.git)  
-
-
-**[Onas Website](https://onasglobal.com) — React.js, Material UI**  
-*July 2025*  
-- Developed responsive IT and EdTech consulting website.  
-- Built modular UI components for scalability.  
-- Deployed production build for client hosting.
-
-**[RR SpaceHub](https://rrspacehub.com) — HTML, PHP, MySQL**  
-*July 2025*  
-- Developed backend form handling and admin dashboard.  
-- Automated lead management, reducing manual entry by 70%.  
-
-**[Portfolio Website](https://sriteja.vercel.app) — React, Vite PWA**  
-*January 2025*  
-- Built offline-first personal portfolio with modular React components.  
-- Added rule-based chatbot for visitor interaction.  
-
-**Loan Eligibility Prediction — Python, Ensemble Learning**  
-*February 2024*  
-- Built Random Forest and Gradient Boosting models achieving 92% accuracy.  
-- Performed feature engineering and model evaluation.  
-- Selected best-performing model for decision-making efficiency.
-- [Project Repo](https://github.com/sriteja-28/Loan-eligibility-prediction-using-ensemble-learning.git)  
-
----
-
-## 🏆 Achievements
-
-- Winner — HR Event, UDBHAV Fest, Vignan College  
+| Degree | Institution | Date |
+|---|---|---|
+| M.S. Computer Science | Wichita State University, Kansas | May 2027 |
+| B.Tech Computer Science & Engineering | Bapatla Engineering College, Andhra Pradesh | May 2024 |
 
 ---
 
 ## 📜 Certifications
 
-- Java Fullstack Development — Career IT Institute  
-- AI Workshop — be10x  
-- Full Stack Web Development — Innovate  
-- Cloud Computing — NPTEL  
-- Cyber Security (Scanning) — Spypro Security Solutions Pvt. Ltd  
-- Machine Learning with Python — Sri Shasha Prayathi Technologies  
-- Internship & Job Preparation — Internshala Trainings  
-- Python Programming — Internshala Trainings  
+- Java Fullstack Development: Career IT Institute
+- Machine Learning with Python: Sri Shasha Prayathi Technologies
+- Full Stack Web Development: Innovate
+- Python Programming · Internship & Job Preparation: Internshala Trainings
+- Cloud Computing: NPTEL
+- Cyber Security (Scanning): Spypro Security Solutions Pvt. Ltd
+- AI Workshop: be10x
 
----
+## 🏆 Achievements
+
+- 🥇 Winner, HR Event, UDBHAV Fest, Vignan College
 
 ## 🤝 Leadership & Volunteering
 
-**Volunteer Tutor — SAC Suryodaya Society**  
-*September 2022 – March 2024*  
-- Tutored 10+ underprivileged students weekly, improving academic performance.  
+- **Volunteer Tutor**, SAC Suryodaya Society (Sep 2022 – Mar 2024): tutored 10+ underprivileged students weekly.
+- **Volunteer**, National Service Scheme (Sep 2022 – Dec 2023): took part in 3 blood donation drives, reaching 200+ community members.
 
-**Volunteer — National Service Scheme (NSS)**  
-*September 2022 – December 2023*  
-- Participated in 3 blood donation drives, raising awareness among 200+ community members.  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sritejamuthangi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sritejamuthangi&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <i>Open to collaborating on ML/AI and full stack projects. Let's connect! 🚀</i>
+</p>
