@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sri Teja Muthangi 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · MSCS @ Wichita State University · Exploring Machine Learning & AI
+  <b>Full Stack Developer</b> · Data & Quality Systems · MSCS @ Wichita State University · Exploring Machine Learning & AI
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focused on **machine learning and AI**, from classical ensemble models to CNNs and speech/transformer models. I like taking a project end to end: data → model → API → UI.
+I build full stack web apps (Next.js, React, Java/Spring Boot, MERN) and I'm increasingly focused on **machine learning, AI, and data**, from classical ensemble models to CNNs and speech/transformer models. I like taking a project end to end: data → model → API → UI. Most recently I've also worked in **quality systems and data quality** in a regulated healthcare environment.
 
 - 🎓 Pursuing an MS in Computer Science (May 2027)
-- 🔭 Currently exploring: ML/AI, speech recognition, deep learning
-- 📫 Open to opportunities in Full Stack and ML/AI roles
+- 🔭 Currently exploring: ML/AI, speech recognition, deep learning, data analytics
+- 📫 Open to opportunities in Full Stack, ML/AI, and Data roles
 
 ---
 
@@ -28,16 +28,53 @@ I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focuse
 
 | Area | Technologies |
 |---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white) |
 | **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) Hibernate · Sequelize |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) IndexedDB |
 | **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) Transformers · Deep Learning · Ensemble Models · Model Evaluation · Prompt Engineering |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) REST APIs |
+| **Data & Quality** | Data Management · Data Quality · Quality Management Systems (MasterControl) · Problem Solving |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) REST APIs · Open-Meteo / BigDataCloud APIs |
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 Full Stack / Web
+
+#### 💻 CodeQuest: Online Coding Platform (Frontend)
+`Next.js` · 🔗 [Live](https://codequest.sritejam.com/) · [Repo](https://github.com/sritejamuthangi/codequest-frontend#readme-ov-file)
+- Next.js frontend for an online coding platform where users browse problems, submit code, view real-time results, and track progress.
+
+#### 🔳 QRWright: QR Code & Barcode Generator
+`TypeScript` · 🔗 [Live](https://qrcode.sritejam.com/) · [Repo](https://github.com/sritejamuthangi/qrwright)
+- Free QR code and barcode generator where codes are created **in the browser**.
+- Server only creates tracked links, redirects scans, and keeps **anonymous scan counts**.
+
+#### 📝 Quiz Maker
+`JavaScript` `Full Stack` · *MIT License* · 🔗 [Live](https://quizmaker.sritejam.com/) · [Repo](https://github.com/sritejamuthangi/quiz-maker)
+- Small full-stack web app for teachers, trainers, and anyone who needs a quick quiz.
+
+#### 🌦️ SkyCast Pro
+`HTML` `CSS` `JavaScript` `Three.js` · 🔗 [Live](https://skycastpro.sritejam.com/) · [Repo](https://github.com/sritejamuthangi/sky-cast-pro)
+- Modern weather app with **interactive 3D weather visuals**, animated skies, and real-time forecasts.
+- Air quality insights, location search, saved cities, and **offline support**.
+- Built with accessibility, responsive layouts, and performance in mind; uses Open-Meteo, BigDataCloud, and Three.js.
+
+#### 🧭 Onas Global: IT & EdTech Consulting Website
+`React.js` `Material UI` · *Jul 2025* · 🔗 [Live](https://onasglobal.com)
+- Responsive consulting site with modular, scalable UI components.
+- Deployed the production build for client hosting.
+
+#### 🏢 RR SpaceHub
+`HTML` `PHP` `MySQL` · *Jul 2025* · 🔗 [Live](https://rrspacehub.com)
+- Backend form handling and an admin dashboard.
+- Automated lead management, **cutting manual entry by 70%**.
+
+#### 🌟 Personal Portfolio
+`React` `Vite` `PWA` · *Jan 2025* · 🔗 [Live](https://www.sritejam.com/)
+- Offline-first portfolio with modular React components.
+- Rule-based chatbot for visitor interaction.
 
 ### 🤖 AI / Machine Learning
 
@@ -63,23 +100,6 @@ I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focuse
 - Feature engineering, model evaluation, and best-model selection.
 - 🔗 [Repo](https://github.com/sritejamuthangi/Loan-eligibility-prediction-using-ensemble-learning.git)
 
-### 🌐 Full Stack / Web
-
-#### 🧭 Onas Global: IT & EdTech Consulting Website
-`React.js` `Material UI` · *Jul 2025* · 🔗 [Live](https://onasglobal.com)
-- Responsive consulting site with modular, scalable UI components.
-- Deployed the production build for client hosting.
-
-#### 🏢 RR SpaceHub
-`HTML` `PHP` `MySQL` · *Jul 2025* · 🔗 [Live](https://rrspacehub.com)
-- Backend form handling and an admin dashboard.
-- Automated lead management, **cutting manual entry by 70%**.
-
-#### 🌟 Personal Portfolio
-`React` `Vite` `PWA` · *Jan 2025* · 🔗 [Live](https://www.sritejam.com/)
-- Offline-first portfolio with modular React components.
-- Rule-based chatbot for visitor interaction.
-
 <!--
 =====================================================
  ADD NEW PROJECTS HERE: copy this template
@@ -97,6 +117,14 @@ I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focuse
 ---
 
 ## 💼 Experience
+
+**Quality Systems and Data Analyst (Internship)** · Fagron Sterile Services US (FSS), Wichita, Kansas · *Jun 2026 – Aug 2026*
+- Worked on quality management systems using **MasterControl** and on **data quality**.
+- <!-- Add 2-3 achievements here: what you improved, tracked, or automated, with numbers if you have them -->
+
+**Mathematics and Statistics Department Student Assistant (Part-time)** · Wichita State University, Wichita, Kansas · *Feb 2026 – May 2026*
+- Supported the department with **data management** and problem solving.
+- <!-- Add 1-2 specifics: what data, which tools, what outcome -->
 
 **Java Fullstack Trainee** · Career IT Institute, Hyderabad · *Jun 2024 – May 2025*
 - Built an offline promotional management system (HTML, CSS, JavaScript, IndexedDB).
@@ -153,5 +181,5 @@ I build full stack web apps (Java/Spring Boot, MERN) and I'm increasingly focuse
 </p>
 
 <p align="center">
-  <i>Open to collaborating on ML/AI and full stack projects. Let's connect! 🚀</i>
+  <i>Open to collaborating on ML/AI, data, and full stack projects. Let's connect! 🚀</i>
 </p>
