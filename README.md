@@ -120,11 +120,6 @@ I build full stack web apps (Next.js, React, Java/Spring Boot, MERN) and I'm inc
 
 **Quality Systems and Data Analyst (Internship)** · Fagron Sterile Services US (FSS), Wichita, Kansas · *Jun 2026 – Aug 2026*
 - Worked on quality management systems using **MasterControl** and on **data quality**.
-- <!-- Add 2-3 achievements here: what you improved, tracked, or automated, with numbers if you have them -->
-
-**Mathematics and Statistics Department Student Assistant (Part-time)** · Wichita State University, Wichita, Kansas · *Feb 2026 – May 2026*
-- Supported the department with **data management** and problem solving.
-- <!-- Add 1-2 specifics: what data, which tools, what outcome -->
 
 **Java Fullstack Trainee** · Career IT Institute, Hyderabad · *Jun 2024 – May 2025*
 - Built an offline promotional management system (HTML, CSS, JavaScript, IndexedDB).
